@@ -1,0 +1,15 @@
+/* Speed Reader Content Styles */
+#speed-reader-overlay {
+  cursor: pointer;
+}
+
+#speed-reader-overlay:hover {
+  opacity: 0.95;
+}
+
+#speed-reader-word {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
